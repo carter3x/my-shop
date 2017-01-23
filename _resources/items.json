@@ -1,0 +1,19 @@
+{
+    "items": [{
+            "name": "Television",
+            "price": "250",
+            "availability": "InStock"
+        },
+        {
+            "name": "Rice Boiler",
+            "price": "550",
+            "availability": "InStock"
+        },
+
+        {
+            "name": "Air-Conditions",
+            "price": "750",
+            "availability": "Out of Stock"
+        }
+    ]
+}
