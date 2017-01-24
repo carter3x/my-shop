@@ -6,7 +6,6 @@ import { AngularFire, FirebaseListObservable } from 'angularfire2';
   moduleId: module.id,
   selector: 'app-products',
   templateUrl: 'product.component.html',
-//   template: `<h1>Hello {{name}}</h1>`,
 })
 
 export class ProductComponent  {
